@@ -9,6 +9,7 @@ The projects "play":
   - JavaScript 
   - Java
   - Prolog (which i found really refreshing!)
+
 I've played with other stuff but no projects here reflect that.
 
 
