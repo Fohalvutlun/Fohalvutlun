@@ -5,7 +5,7 @@ Most of my projects are private, so sorry if there isn't that much here.
 
 Most of my experience is around simple, heavily focused, backend applications, 
 mostly as a vector to apply some new thing that i'm learning about at the time.
-The projects "play": 
+The projects "play" with: 
   - JavaScript 
   - Java
   - Prolog (which i found really refreshing!)
