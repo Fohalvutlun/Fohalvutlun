@@ -10,13 +10,7 @@ The projects "play" with:
 - Java
 - Prolog (which i found really refreshing!)
 
-I've also messed with:
-- Squeak (Smalltalk)
-- MATLAB
-- C# quite a while ago
-
 I've played with other stuff but no projects here reflect that.
-
 
 As of the moment i'm trying to wrap my head around DDD & Rober Martin's "Clean Architecture", 
 not the model itself, but the concepts that he echoes through his book about maintanbility:
